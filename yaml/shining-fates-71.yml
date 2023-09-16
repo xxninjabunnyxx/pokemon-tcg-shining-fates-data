@@ -1,0 +1,65 @@
+---
+id: swsh45-71
+name: Rose
+supertype: Trainer
+subtypes:
+- Supporter
+rules:
+- Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX.
+  If you attached any Energy cards in this way, discard your hand.
+- You may play only 1 Supporter card during your turn.
+set:
+  id: swsh45
+  name: Shining Fates
+  series: Sword & Shield
+  printedTotal: 72
+  total: 73
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: SHF
+  releaseDate: 2021/02/19
+  updatedAt: 2021/02/24 16:17:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh45/symbol.png
+    logo: https://images.pokemontcg.io/swsh45/logo.png
+number: '71'
+artist: Megumi Mizutani
+rarity: Rare Ultra
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh45/71.png
+  large: https://images.pokemontcg.io/swsh45/71_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh45-71
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.53
+      mid: 1.75
+      high: 19.99
+      market: 0.94
+      directLow: 1.02
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh45-71
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 2.52
+    lowPrice: 0.8
+    trendPrice: 1.79
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 8.41
+    lowPriceExPlus: 1.45
+    avg1: 1.0
+    avg7: 2.13
+    avg30: 2.63
+    reverseHoloAvg1: 7.86
+    reverseHoloAvg7: 8.95
+    reverseHoloAvg30: 9.89
